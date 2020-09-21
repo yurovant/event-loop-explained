@@ -1,5 +1,5 @@
 
-# Event loop explainer
+# Event loop explained
 
 ## What is the event loop?
 
